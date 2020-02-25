@@ -77,10 +77,6 @@
 			<version>${servlet.version}</version>
 			<scope>provided</scope>
 		</dependency>
-		<!-- <dependency> <groupId>com.fasterxml.jackson.core</groupId> 
-		<artifactId>jackson-databind</artifactId> 
-			<version>${jackson.version}</version> </dependency> -->
-		<!-- https://mvnrepository.com/artifact/org.postgresql/postgresql -->
 		<dependency>
 			<groupId>org.postgresql</groupId>
 			<artifactId>postgresql</artifactId>
